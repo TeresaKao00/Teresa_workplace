@@ -64,11 +64,10 @@ merge 之類的
 
 給一些建議
 
+## Further Exploration
+寫一些接下來的計劃等等
 
-
-
-
-
+<br><br>
 ## Thank you for your time 💌
 The journey to improvements never stop. Strive for persistency to achieve success. 
 
