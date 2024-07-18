@@ -10,7 +10,7 @@ Cyclistic, a bike-sharing company,and this case study aims to design a new marke
 
 ## Methodology
 The case study explores the business problem of a hypothetical bike-sharing service in Chicago, Cyclistic. The data has been made available by
-Motivate International Inc. under this [license].(https://divvybikes.com/data-license-agreement)
+Motivate International Inc. under this [license.](https://divvybikes.com/data-license-agreement)
 
 ## Ask
 ### Key Objective: A clear statement of the business task
@@ -30,11 +30,11 @@ There are two categories of riders:
 
 ## Prepare
 ### Key Objective: Optimize by verifying the credibility of the data and efficiently sorting and filtering it.
-Please check out this [file].() 要加code
+Please check out this [file.]() 要加code
 This data contains lots of useful information include,dates and times for the start and end of each trip, geographic, user_id, and so on.
 
 ### Deliverables: A description of all data sources used.
-This is public data that can be download [here].(https://divvy-tripdata.s3.amazonaws.com/index.html)
+This is public data that can be download [here.](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 ## Process
 ### Key Objective: Clean and ensure the accuracy of the data.
