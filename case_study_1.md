@@ -1,12 +1,14 @@
 # Case Study 1: How does a bike-share navigate speedy success?
 
 ## Project Overview
-Cyclistic, a bike-sharing company,and this case study aims to design a new marketing strategy to convert casual riders into annual members. 
+In this study, I'll explore how Cyclistic, a Chicago bike-share program, can uncover customer usage patterns to design strategies that convert casual riders into annual members, driving the company's growth. 
 
-## Problem
-1. How do annual members and casual riders use Cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
+## Problem Statement
+This case study aims to design a new marketing strategy to convert casual riders into annual members. The following questions will guide the future marketing program:
+
+  1. How do annual members and casual riders use Cyclistic bikes differently?
+  2. Why would casual riders buy Cyclistic annual memberships?
+  3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Methodology
 The case study explores the business problem of a hypothetical bike-sharing service in Chicago, Cyclistic. The data has been made available by
