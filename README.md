@@ -2,9 +2,9 @@
 
 ## 📊 Case Study
 ### Excel project
-#### ☕️ [Coffee Sales Analysis](case_study_excel_1.md)
+#### ☕️ [Coffee Sales Analysis](case_study_excel_coffeesales.md)
 
 ### R project
-#### 🚲 [How does a bike-share navigate speedy sucess?](case_study_1.md)
+#### 🚲 [How does a bike-share navigate speedy sucess?](case_study_R_bikeshare.md)
 
 
