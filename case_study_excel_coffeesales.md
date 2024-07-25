@@ -47,7 +47,9 @@ I think Excel’s pivot tables and charts efficiently summarize data and reveal 
 - Increase brand visibility and engagement in the UK through localized promotions, partnerships, and events. Consider special offers, regional discounts, or influencer collaborations to attract more customers.
 
 ## 😣 Challenges 
-
+- Ensuring that data across different sources or sheets is consistent and properly formatted is a big challenge to me.
+- How to present useful chart through a pivot table will be a challenge too.
+- Trying to use flexible formula to increase efficient.
 
 ## 📊 Report
 ### Coffee Sales Dashboard
@@ -56,8 +58,8 @@ I think Excel’s pivot tables and charts efficiently summarize data and reveal 
 
 
 ## 💡 Learning & Takeaway
-- While using XLOOKUP to process data, I encountered formula errors. After repeated checks with no issues found, I discovered that the problem was due to not locking the cell references properly. A well-deserved break helped me realize this oversight.
-- 
+- Knowing how to choose functions to make data analysis more dynamic is crucial for efficiency.
+- Creating clear and easily understandable visualizations is more important than making them fancy.
 
 
 
