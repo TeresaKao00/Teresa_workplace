@@ -52,10 +52,12 @@ I think Excel’s pivot tables and charts efficiently summarize data and reveal 
 - How to present useful chart through a pivot table will be a challenge too.
 - Trying to use flexible formula to increase efficient.
 
-## 📊 Report
+## 📊 Final Report
 ### Coffee Sales Dashboard
 ![Coffee Sales Dashboard](https://github.com/TeresaKao00/Teresa_workplace/blob/main/Coffee%20Sales%20Dashboard.png)
 
+### Final Analysis Data
+[Coffee Sales Data Analysis File](https://github.com/TeresaKao00/Teresa_workplace/blob/main/coffeeOrdersData_Teresa.xlsx)
 
 
 ## 💡 Learning & Takeaway
