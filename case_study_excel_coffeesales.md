@@ -13,7 +13,8 @@ The coffee company seeks to understand its sales performance and customer behavi
 5. Who are the top 5 customers, and what can we learn from their purchasing behavior?
 
 ## 👩🏻‍💻 Data Sources
-The data used in this analysis was obtained from this sources:[Kaggle](https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data/data)
+The data used in this analysis was obtained from this sources: [Kaggle](https://www.kaggle.com/datasets/mohammadkaiftahir/coffee-orders-data/data)
+
 This [raw data](https://docs.google.com/spreadsheets/d/131Z5cMjfkS73fWMw--EfdGjAWm7oVsaqAiQ89AwA7uo/edit?usp=sharing) includes a coffee company’s order, customer information, and product sales records from 2019 to 2022.
 
 ## 📚 Project Roadmap
