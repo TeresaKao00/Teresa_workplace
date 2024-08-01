@@ -26,17 +26,21 @@ This [raw data](https://docs.google.com/spreadsheets/d/131Z5cMjfkS73fWMw--EfdGjA
 - Clean the data by removing duplicates and checking for missing values.
 
 ### 📝 Data Analysis Objective
-1. Sales Trend Analysis
-  - Use pivot tables summarize sales by years, months, coffee type name,and sum of sales.
-  - Create line charts to visualize total sales over time.
-2. Product Preference Analysis
-  - Insert slicers to filter roast type name and size.
-3. Customer Loyalty Analysis
-  - Insert slicers to filter loyalty card.
-4. Geographic Sales Distribution
-  - Use pivot tables to creat bar charts diplaying sales by country. 
-5. Top Customer Analysis
-  - Use pivot tables summarize top 5 customers with total sales.
+**1. Sales Trend Analysis**
+- Use pivot tables summarize sales by years, months, coffee type name,and sum of sales.
+- Create line charts to visualize total sales over time.   
+
+**2. Product Preference Analysis**
+- Insert slicers to filter roast type name and size.
+
+**3. Customer Loyalty Analysis**
+- Insert slicers to filter loyalty card.
+
+**4. Geographic Sales Distribution**
+- Use pivot tables to creat bar charts diplaying sales by country. 
+
+**5. Top Customer Analysis**
+- Use pivot tables summarize top 5 customers with total sales.
 
 ## 🔑 Why I Choose Excel To Analylize This Data
 I think Excel’s pivot tables and charts efficiently summarize data and reveal trends and insights. Moreover,there are lots of useful fuctions to help me process data. Overall,it's clear and user-friendly interface makes it easy for people to understand overall data trend through the dashboard.
